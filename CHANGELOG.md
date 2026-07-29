@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-05)
+## Unreleased (2026-07-29)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`3311629`](https://github.com/stdlib-js/stdlib/commit/33116295fc04de34dcd52b2b294f522631c6740b) - **docs:** remove hyphen _(by Athan Reines)_
 -   [`f29ec0b`](https://github.com/stdlib-js/stdlib/commit/f29ec0b8e6d5b0de63dd5c56eb7e975dfeb5dc9b) - **docs:** add source section header [(#13180)](https://github.com/stdlib-js/stdlib/pull/13180) _(by Philipp Burckhardt)_
 -   [`aedb51d`](https://github.com/stdlib-js/stdlib/commit/aedb51d0b583008413ff4ff4b101242b9b1c5182) - **docs:** change type to integer in `number/uint32/base/identity` REPL docs  [(#11759)](https://github.com/stdlib-js/stdlib/pull/11759) _(by Philipp Burckhardt)_
 -   [`fe2eec4`](https://github.com/stdlib-js/stdlib/commit/fe2eec4417d858b83b208929a4bbac3d9d236fa4) - **bench:** refactor to use string interpolation in `number` [(#11603)](https://github.com/stdlib-js/stdlib/pull/11603) _(by Karan Anand)_
@@ -26,8 +27,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 
